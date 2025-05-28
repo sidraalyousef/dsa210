@@ -20,10 +20,9 @@ I'm interested in applying computer science in the field of international relati
 
 ## Datasets
 - **Inflation rates:** Statburreau for Russia, Central Bureau of Statistics for Syria.
-- **Balance of Trade:** TradeEconomics, for both countries.
-- **Real Effective Exchange Rate:** International Monetary Fund Data Portal, for both countries.
-- **Poverty Rate**: World Population Review, for both countries.
-- **Unemployment rate:**  Russian Federal State Statistics Service for Russia, UNDP for Syria.
+- **Exchange Rate:** International Monetary Fund Data Portal, for both countries.
+- **Poverty Rate**: Russian Federal State Statistics Service for Russia, UNDP for Syria
+- **Unemployment rate:**  Russian Federal State Statistics Service for Russia, World Bank and CEIC Syria.
 
    
 
